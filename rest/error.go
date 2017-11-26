@@ -23,3 +23,6 @@ const ErrorNotAuthenticated = "NotAuthenticated"
 
 // ErrorSessionTimeout user session timedout
 const ErrorSessionTimeout = "SessionTimeout"
+
+// ErrorInvalidSession invalid session
+const ErrorInvalidSession = "InvalidSession"
